@@ -1,2 +1,2 @@
 # LukPack
-> Mathematica package with a collection of useful functions
+> [Wolfram Mathematica](https://www.wolfram.com/mathematica/) package with a collection of useful functions
