@@ -1,1 +1,1 @@
-CalCoMatica (`calcomatica.m`) up to version 4.7.3 was developed by Lukasz Jablonski during doctoral studies in the group of Stefan Hallermann (Carl Ludwig Institute for Physiology, Faculty of Medicine, Leipzig University). Since then, it was released to the community.
+LukPack (`lukpack.m`) up to version 1.25.3 was developed by Lukasz Jablonski during doctoral studies in the group of Stefan Hallermann (Carl Ludwig Institute for Physiology, Faculty of Medicine, Leipzig University). Since then, it was released to the community.
